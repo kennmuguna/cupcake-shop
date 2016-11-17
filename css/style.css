@@ -1,0 +1,18 @@
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+ol{
+  font-family: monospace;
+  font-family: sans-serif;
+}
+
+.best{
+    color: #76FF03;
+}
+
+img{
+  width:540px;
+  height: auto;
+}
